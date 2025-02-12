@@ -5,3 +5,8 @@ Repositório destinado à entrega do trabalho final da disciplina de Laboratóri
 ## Apresentação do Jogo
 O jogo retrata uma perspectiva onde a beleza e a exuberância da Floresta Amazônica são ameaçadas pela ganância da Corporação Extrativista, um herói ou heroína emerge da aldeia amazônica para defender essa terra sagrada. Eles sabem que não podem enfrentar uma corporação sozinha, então decidem convocar os guardiões lendários do folclore brasileiro para proteger a floresta.
 
+## Objetivos
+
+* Apresentar o Amazon Defender ao mundo, um game focado na preservação da floresta amazônica utilizando uma abordagem "gameficada" com o estilo tower defense.
+
+* Demonstrar as habilidades adquiridas ao decorrer desta disciplina 
